@@ -46,11 +46,11 @@ And a Better visualization.
 
 
 ## Learning Objectives:
-to be able to search and implement new librairies
-to be able to read and use shapefiles
-to be able to read and use geoTIFFs
-to be able to render a 3D plot
-to be able to present a final product
+- [ ]to be able to search and implement new librairies
+- [ ]to be able to read and use shapefiles
+- [ ]to be able to read and use geoTIFFs
+- [ ]to be able to render a 3D plot
+- [ ]to be able to present a final product
 
 
 ## How?:
@@ -84,5 +84,5 @@ Check if everything Works
 
 I Hope you enjoyed my work.
 Thank You For Reading!
-------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
 
