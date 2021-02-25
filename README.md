@@ -13,13 +13,14 @@ Team challenge : solo
 --------------------------------------------------------------------
 ## About the Repository:
 This is a repository showing all the files in this repository:
-- .py (python file excutable of  )
-- .ppt (the powerpoint presentation )
--DATA (contains all data collection for the project )
+- MAIN.ipynb (Final Product  )
+- 3D HOUSE PRESENTATION.ppt (the powerpoint presentation )
+- 
+- DATA (folder contains all data collection for the project .git ignore )
 -
--
+
 README.md <------------------- --------------You are here now!
-"You are currently reading it right now".
+###  "You are currently reading it right now".
 --------------------------------------------------------------------
 
 
@@ -63,15 +64,15 @@ source code on the GitHub repository.
 
 
 ## Steps
-[X]Create the repository
-[X]Study the request (What & Why ?)
-[X]Download the maps
-[X]Canopy Height Model
-[]Identify technical challenges (How ?)
-[]Evaluation criterias
-[]It works (no bugs in the console, no error)
-[]You use Git from the start and during the entire process of the development (at least one push per day)
-[]You convince us during the final presentation
+- [X]Create the repository
+- [X]Study the request (What & Why ?)
+- [X]Download the maps
+- [X]Canopy Height Model
+- []Identify technical challenges (How ?)
+- []Evaluation criterias
+- []It works (no bugs in the console, no error)
+- []You use Git from the start and during the entire process of the - []development (at least one push per day)
+- []You convince us during the final presentation
 
 ## Pending things to do:
 Readme Update "about this repository"
